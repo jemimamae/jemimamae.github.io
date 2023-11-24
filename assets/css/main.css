@@ -2536,11 +2536,11 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #CD8C95;
+					color: #5e42a6;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #CD8C95;
+					color: #493382;
 				}
 
 				.wrapper.style2 .icon.major:before {
@@ -3256,7 +3256,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #CD8C95;
+			background-color: #b74e91;
 		}
 
 		.wrapper.style3-alt {
